@@ -1,6 +1,12 @@
 
 This is a project to start implementing OpenGL applications
-using freeglut. 
+using freeglut. I used C++ to develop a Tic Tac Toe game.
+
+WHAT I HAVE LEARNED
+Correct game setup for two players
+Correct implementation of AI component
+Appropriate use of object-oriented concepts
+
 
 Linux:
  - Type make to compile the application
