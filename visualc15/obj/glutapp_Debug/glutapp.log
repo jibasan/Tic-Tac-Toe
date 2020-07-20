@@ -1,0 +1,18 @@
+﻿  app_main.cpp
+c:\users\jeff\desktop\mini project 3\app_main.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jeff\desktop\mini project 3\app_main.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jeff\desktop\mini project 3\app_main.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeff\desktop\mini project 3\app_main.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeff\desktop\mini project 3\app_main.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jeff\desktop\mini project 3\app_main.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jeff\desktop\mini project 3\app_main.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jeff\desktop\mini project 3\app_main.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\desktop\mini project 3\app_main.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\desktop\mini project 3\app_main.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\desktop\mini project 3\app_main.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\desktop\mini project 3\app_main.cpp(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\desktop\mini project 3\app_main.cpp(297): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\desktop\mini project 3\app_main.cpp(306): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\desktop\mini project 3\app_main.cpp(308): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\desktop\mini project 3\app_main.cpp(392): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  glutapp.vcxproj -> C:\Users\Jeff\Desktop\Mini Project 3\visualc15\obj\glutapp_Debug\glutapp.exe
