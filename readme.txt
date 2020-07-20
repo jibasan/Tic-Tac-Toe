@@ -1,7 +1,5 @@
-FREEGLUTAPP
------------
 
-This is a demo project to start implementing OpenGL applications
+This is a project to start implementing OpenGL applications
 using freeglut. 
 
 Linux:
